@@ -1,2 +1,2 @@
 # iec.github.io
-A dummy website of Indian Electricity Website
+A dummy website of Indian Electricity Board
