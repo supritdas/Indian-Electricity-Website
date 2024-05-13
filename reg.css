@@ -94,7 +94,7 @@ ul {
     height:auto;
   }
   #header3{
-    background-color:  #007FFF;
+    background-color:  #000;
     color: white;
     text-align: center;
     padding: 20px;
@@ -195,7 +195,7 @@ body {
 }
 .top {
   display: inline-block;
-  vertical-align: top; /* Adjust the vertical alignment if needed */
+  vertical-align: top;
   padding: 14px 0;
   display: flex;
   justify-content: space-between;
